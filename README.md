@@ -5,8 +5,11 @@ J’aime appliquer les outils de la data à des domaines concrets comme le sport
 
 ## Projets
 
+- **Stage de recherche (CEMEF)** — développement d’un outil IA servant à détecter des évènements importants dans des extraits vidéos de sport.  
+  *(EN COURS - Computer Vision, Transformer, LLM)*
+
 - **Football Match Predictor** — développement d’un modèle de machine learning pour prédire les résultats de matchs de football.  
-  *(En cours – Python, Pandas, Scikit-learn, XGBoost)*
+  *(Python, Pandas, Scikit-learn, XGBoost)*
 
 - **QRT Grand Data Challenge** — participation à un hackathon d'une semaine organisé par QRT sur la prédiction de retour sur investissement en concurrence avec 200 élèves de Mines Paris, X, CS et ENSAE. (31ème place obtenue)
 
