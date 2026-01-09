@@ -1,5 +1,3 @@
-# Hey, je suis Ilias Bendali
-
 Étudiant aux Mines de Paris, passionné par la data science, la modélisation et l’intelligence artificielle.  
 J’aime appliquer les outils de la data à des domaines concrets comme le sport.
 
